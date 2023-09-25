@@ -27,6 +27,8 @@ Here are some of the successful projects you can explore:
 
 - **quiz_game.py**: A quiz game project that worked out well.
 
+- **pigdice.py**: A fun dice. In short term, roll dice, avoid 1s, reach 50 points to win.
+
 ## Credits
 
 - [F0XN0T on GitHub](https://github.com/F0XN0T)
