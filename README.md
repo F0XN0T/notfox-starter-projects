@@ -29,6 +29,10 @@ Here are some of the successful projects you can explore:
 
 - **pigdice.py**: A fun dice. In short term, roll dice, avoid 1s, reach 50 points to win.
 
+- **321_quiz.py**: A new addition to the list, a quiz-related project.
+
+- **haunting_of_october_madlibs.py**: Another new addition, likely related to a madlibs game.
+
 ## Credits
 
 - [F0XN0T on GitHub](https://github.com/F0XN0T)
