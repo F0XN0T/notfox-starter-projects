@@ -15,6 +15,8 @@ This repository was started in 2022 and officially kicked off in September 2023,
 
 2. **FAILED_your_waifu_bedtime_stories.py**: A project, probably whimsical in nature, that didn't reach its intended goal.
 
+3. **FAILED_main_api.py**: First attempt in Flask py. Rooms for improvement.
+
 ### Successful Projects
 
 Here are some of the successful projects you can explore:
